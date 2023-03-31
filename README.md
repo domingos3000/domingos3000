@@ -1,6 +1,5 @@
 ### Hi, I'm Domingos! 😄
 ---
-![Perfil](https://github-readme-stats.vercel.app/api?username=domingos3000&theme=dracula)
 
 ### Description
 
