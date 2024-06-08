@@ -3,7 +3,7 @@
 
 ### Description
 
-I'm Domingos Nkula Pedro 😁, a 22 year old young man. And I've been passionate about technology since I was little ❤. I'm currently a fullstack web developer 💻, and I'm self-employed. 😉
+I'm Domingos Nkula Pedro 😁, a 23 year old young man. And I've been passionate about technology since I was little ❤. I'm currently a fullstack web developer 💻, and I'm self-employed. 😉
 
 ### Programming Languages 🚀
 ---
